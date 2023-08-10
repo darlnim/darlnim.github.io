@@ -1,1 +1,9 @@
-p { color: red; }
+p1 { color: blueviolet; }
+a {
+    display: flex;
+    align-items: center;
+  }
+
+p2 {
+    align-items: center;
+}
